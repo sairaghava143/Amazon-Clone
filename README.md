@@ -31,7 +31,8 @@
 ![Screenshot (111)![Screenshot (112)](https://user-images.githubusercontent.com/99303864/175087013-e0a9bb0d-cebd-4fe3-bd89-0a7b47febc7f.png)
 ](https://user-images.githubusercontent.com/99303864/175086979-a5371335-0596-476f-9798-eca07dbaa481.png)
 ![Screenshot (113)](ht![Screenshot (114)](https://user-images.githubusercontent.com/99303864/175087073-322fda48-7990-495f-bdf2-8079da0feb5b.png)
-tps://user-images.githubusercontent.com/99303864/175087038-fe1d63db-44d7-48b2-bf0b-c2bf7e406606.png)
+![Screenshot (114)](https://user-images.githubusercontent.com/99303864/175087780-fe33330f-2959-46ca-94d9-6be9363ff4cb.png)
+
 
 
 ## Run the app locally 
